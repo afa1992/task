@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue &family=Inconsolata:wght@600&family=Roboto+Slab:wght@100&family=Tapestry&display=swap');
+
+* {
+    font-family: 'Roboto Slab', serif;
+    box-sizing: border-box;
+    font-weight: bolder;
+    background-color: rgb(21, 174, 21);
+}
+
+.register {
+    width: 30%;
+    margin: 40px auto;
+
+    height: 150vh;
+}
+
+.register form input {
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid transparent;
+}
+
+p {
+    text-align: center;
+}
+
+.area textarea {
+    background-color: aliceblue;
+}
+
+.register form button {
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 5px 0;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.radio .input {
+    display: inline;
+    margin: 0;
+    color: blue;
+}
